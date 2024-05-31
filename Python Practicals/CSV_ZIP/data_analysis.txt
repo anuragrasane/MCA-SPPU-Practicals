@@ -1,0 +1,12 @@
+numpy prog. link:https://www.w3resource.com/python-exercises/numpy/python-numpy-sorting-and-searching.php
+
+pandas prog. link: https://www.w3resource.com/python-exercises/pandas/index-data-series.php
+
+https://www.w3resource.com/python-exercises/pandas/index-dataframe.php
+
+https://www.w3resource.com/python-exercises/pandas/excel/index.php
+
+
+matplotlin prog. link: https://www.w3resource.com/python-exercises/pandas/plotting/index.php
+
+link for CSV file: https://github.com/mwaskom/seaborn-data/blob/master/diamonds.csv
